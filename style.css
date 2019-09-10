@@ -1,0 +1,93 @@
+.bannerindex {
+  background-color: lightblue;
+  color: black;
+  margin-top: 75px;
+  text-align: center;
+  padding: 100px 0;
+  border-radius: 10px;
+}
+
+.navbar {
+  color: black;
+  position: fixed;
+  top: 0;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 30px 20px;
+
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.firstpage a {
+  background-color: lightblue;
+  border-radius: 5px;
+  padding: 10px 10px;
+  text-decoration: none;
+  color: black;
+  position: fixed;
+  top: 10px;
+}
+
+.foot {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightblue;
+  color: black;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+.selim {
+  margin-top: 75px;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+#selim {
+  height: 500px;
+  width: 500px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#tabell {
+  margin-top: 75px;
+}
+
+.sidor {
+  margin-top: 75px;
+}
+
+ul, li, a {
+  text-decoration:none;
+  color: black;
+}
+
+.sidor ul {
+  background: #3399ff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+ .sidor ul li {
+  background: #cce5ff;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 10px 10px;
+}
+
+.kontakt {
+  margin-top: 75px;
+}
