@@ -1,7 +1,7 @@
 .bannerindex {
   background-color: lightblue;
   color: black;
-  margin-top: 75px;
+  margin-top: 150px;
   text-align: center;
   padding: 100px 0;
   border-radius: 10px;
@@ -11,6 +11,7 @@
   color: black;
   position: fixed;
   top: 0;
+
 }
 
 .navbar li {
@@ -89,5 +90,5 @@ ul, li, a {
 }
 
 .kontakt {
-  margin-top: 75px;
+  margin-top: 125px;
 }
